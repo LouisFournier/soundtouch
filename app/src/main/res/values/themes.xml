@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.SoundTouch" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="ic_launcher_background">#1F2A44</color>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundTouch</string>
+    <string name="widget_description">Ce qui joue et les commandes de tes enceintes</string>
+</resources>
